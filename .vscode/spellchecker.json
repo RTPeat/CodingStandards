@@ -1,0 +1,25 @@
+{
+    "language": "en_GB-ise",
+    "ignoreWordsList": [
+        "Favour",
+        "behaviour",
+        "stateful",
+        "Polymorphism",
+        "LINQ",
+        "namespace",
+        "namespaces",
+        "Initialisers",
+        "initialisers",
+        "boolean",
+        "localisable",
+        "Finaliser"
+    ],
+    "documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext"
+    ],
+    "ignoreRegExp": [],
+    "ignoreFileExtensions": [],
+    "checkInterval": 5000
+}
